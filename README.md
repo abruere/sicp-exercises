@@ -14,3 +14,4 @@ I’m also grateful for the info provided by [https://teachyourselfcs.com](https
 
 - [Scheme wiki](http://community.schemewiki.org/?sicp-solutions) for discussion
 - [https://github.com/sarabander/p2pu-sicp](https://github.com/sarabander/p2pu-sicp)
+- [Bill the Lizard](https://billthelizard.blogspot.com/2009/10/sicp-challenge.html)
